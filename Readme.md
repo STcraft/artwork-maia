@@ -15,7 +15,8 @@ Maia Look & Feel package. Modified version, with transparant panels and menu.
 
 1. `git clone https://github.com/STcraft/artwork-maia/tree/master/maia`
 2. Copy the maia folder to `~/.local/share/plasma/desktoptheme/` (local) or `/usr/share/plasma/desktoptheme/` (global)
-3. Apply the theme via the Settings
+3. Apply the theme via the Settings: Workspace Theme -> Desktop Theme -> Maia Transparent Remix -> Apply
+4. (Optional, May or may not work depending on your GPU/CPU) Enable Blur: Desktop Behaviour -> Desktop Effects -> Enable 'Blur' -> Apply
 
 ## Screenshots
 
@@ -25,4 +26,4 @@ Maia Look & Feel package. Modified version, with transparant panels and menu.
 ![Alt text](/screenshots/Shot4.png?raw=true)
 
 
-(Please note that i am still new to github, and this is my first fork. If you are the original author and want this removed, just ask! (nicely ;) ))
+>(Please note that i am still new to github, and this is my first fork. If you are the original author and want this removed, just ask! (nicely ;) ))
