@@ -11,10 +11,10 @@ Maia Look & Feel package. Modified version, with transparant panels and menu.
 * Sddm theme, lock screen and splash screen based on Breeze.
 * Maia wallpaper
 
-![Alt text](/screenshots/Shot1?raw=true)
-![Alt text](/screenshots/Shot2?raw=true)
-![Alt text](/screenshots/Shot3?raw=true)
-![Alt text](/screenshots/Shot4?raw=true)
+![Alt text](/screenshots/Shot1.png?raw=true)
+![Alt text](/screenshots/Shot2.png?raw=true)
+![Alt text](/screenshots/Shot3.png?raw=true)
+![Alt text](/screenshots/Shot4.png?raw=true)
 
 
 (Please note that i am still new to github, and this is my first fork. If you are the original author and want this removed, just ask! (nicely ;) ))
