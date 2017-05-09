@@ -11,6 +11,14 @@ Maia Look & Feel package. Modified version, with transparant panels and menu.
 * Sddm theme, lock screen and splash screen based on Breeze.
 * Maia wallpaper
 
+## Installation
+
+1. `git clone https://github.com/STcraft/artwork-maia/tree/master/maia`
+2. Copy the maia folder to `~/.local/share/plasma/desktoptheme/` (local) or `/usr/share/plasma/desktoptheme/` (global)
+3. Apply the theme via the Settings
+
+## Screenshots
+
 ![Alt text](/screenshots/Shot1.png?raw=true)
 ![Alt text](/screenshots/Shot2.png?raw=true)
 ![Alt text](/screenshots/Shot3.png?raw=true)
